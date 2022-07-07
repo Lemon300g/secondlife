@@ -40,21 +40,22 @@ function App() {
 
       <Carousel className="top_bg">
         <Carousel.Item>
-          <img className="d-block w-100" src={process.env.PUBLIC_URL + "img/benner_img_01.png"} alt="First slide" />
+          <img className="d-block w-100" src={process.env.PUBLIC_URL + "/img/benner_img_01.png"} alt="First slide" />
           <Carousel.Caption>
-            <h3>
+            <h3 className="main_font">
               THE MONSTER
               <br />
               IN OUR CLOSET
             </h3>
             <p>
-              무심코 입고 버리는 옷들의 탄생과정 부터 폐기되기 까지의 숨겨진 과정들을 모두 알고있나요?<br/>세컨드라이프와
-              함께 지속가능한 의류 소비 습관을 만들어보세요.
+              무심코 입고 버리는 옷들의 탄생과정 부터 폐기되기 까지의 숨겨진 과정들을 모두 알고있나요?
+              <br />
+              세컨드라이프와 함께 지속가능한 의류 소비 습관을 만들어보세요.
             </p>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
-          <img className="d-block w-100" src={process.env.PUBLIC_URL + "img/Bg-image.png"} alt="Second slide" />
+          <img className="d-block w-100" src={process.env.PUBLIC_URL + "/img/Bg-image.png"} alt="Second slide" />
 
           <Carousel.Caption>
             <h3>Second slide label</h3>
@@ -62,7 +63,7 @@ function App() {
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
-          <img className="d-block w-100" src={process.env.PUBLIC_URL + "img/Bg-image.png"} alt="Third slide" />
+          <img className="d-block w-100" src={process.env.PUBLIC_URL + "/img/Bg-image.png"} alt="Third slide" />
 
           <Carousel.Caption>
             <h3>Third slide label</h3>
