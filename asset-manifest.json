@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/secondlife/static/css/main.0f209af3.css",
+    "main.js": "/secondlife/static/js/main.3456d40f.js",
+    "static/js/787.644958fb.chunk.js": "/secondlife/static/js/787.644958fb.chunk.js",
+    "index.html": "/secondlife/index.html",
+    "main.0f209af3.css.map": "/secondlife/static/css/main.0f209af3.css.map",
+    "main.3456d40f.js.map": "/secondlife/static/js/main.3456d40f.js.map",
+    "787.644958fb.chunk.js.map": "/secondlife/static/js/787.644958fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f209af3.css",
+    "static/js/main.3456d40f.js"
+  ]
+}
